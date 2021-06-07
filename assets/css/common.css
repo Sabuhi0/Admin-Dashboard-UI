@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: var(--bs-default-font);
+    text-decoration: none;
+    box-sizing: inherit;
+}
+
+.mt-16 {
+    margin-top: 16px;
+}
+
+.mb-16 {
+    margin-bottom: 16px;
+}
+
+.pr-24 {
+    padding-right: 24px;
+}
+
+.pl-24 {
+    padding-left: 24px;
+}
+
+.pl-32 {
+    padding-left: 32px;
+}
