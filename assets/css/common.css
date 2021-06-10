@@ -15,11 +15,6 @@ main {
     width: 100%;
 }
 
-.test {
-    width: 100%;
-    display: flex;
-}
-
 .container {
     width: 100%;
     box-sizing: border-box;
