@@ -1,0 +1,30 @@
+.header-section {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.header-text {
+    font-size: 24px;
+    color: var(--bs-color-charade);
+    font-weight: 700;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.search {
+    padding-right: 26px;
+}
+
+.divider-header {
+    height: 32px;
+    border: 1px solid var(--bs-color-athens-gray);
+    margin-left: 33px;
+    margin-right: 33px;
+}
+
+.profile-text {
+    padding-right: 14px;
+}

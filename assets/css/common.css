@@ -7,6 +7,24 @@
     box-sizing: inherit;
 }
 
+body {
+    background-color: #F7F8FC;
+}
+
+main {
+    width: 100%;
+}
+
+.test {
+    width: 100%;
+    display: flex;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
 .mt-16 {
     margin-top: 16px;
 }
@@ -23,6 +41,18 @@
     padding-left: 24px;
 }
 
+.pl-30 {
+    padding-left: 30px;
+}
+
+.pr-30 {
+    padding-right: 30px;
+}
+
 .pl-32 {
     padding-left: 32px;
+}
+
+.pr-32 {
+    padding-right: 32px;
 }
