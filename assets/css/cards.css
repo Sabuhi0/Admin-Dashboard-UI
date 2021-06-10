@@ -36,11 +36,6 @@
     color: var(--bs-color-santas-gray-100);
 }
 
-.card-link,
-.card-number {
-    color: var(--bs-color-charade);
-}
-
 .card-link:hover .card-text,
 .card-link:hover .card-number,
 .card-text:hover {
