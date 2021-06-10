@@ -1,4 +1,4 @@
-.content {
+.cards {
     width: 100%;
     display: grid;
     grid-gap: 30px;
@@ -6,12 +6,12 @@
     margin-top: 58px;
 }
 
-.row {
+.card-section {
     border-radius: 8px;
     background: var(--bs-color-white);
 }
 
-.column {
+.card-item {
     padding-top: 24px;
     padding-bottom: 24px;
 }
@@ -20,37 +20,29 @@
     text-align: center;
 }
 
-.content-text {
+.card-text {
     font-weight: 700;
     font-size: 19px;
 }
 
-.content-number {
+.card-number {
     color: var(--bs-color-charade);
     padding-top: 12px;
     font-size: 40px;
 }
 
-.row {
-    border: 1px solid transparent;
-}
-
-.row:hover {
-    border-color: var(--bs-color-blue-ribbon);
-}
-
-.content-link,
-.content-text {
+.card-link,
+.card-text {
     color: var(--bs-color-santas-gray-100);
 }
 
-.content-link,
-.content-number {
+.card-link,
+.card-number {
     color: var(--bs-color-charade);
 }
 
-.content-link:hover .content-text,
-.content-link:hover .content-number,
-.content-text:hover {
+.card-link:hover .card-text,
+.card-link:hover .card-number,
+.card-text:hover {
     color: var(--bs-color-blue-ribbon);
 }
