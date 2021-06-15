@@ -9,6 +9,7 @@
 .card-section {
     border-radius: 8px;
     background: var(--bs-color-white);
+    border: 1px solid var(--bs-color-santas-gray-100);
 }
 
 .card-item {
@@ -34,6 +35,10 @@
 .card-link,
 .card-text {
     color: var(--bs-color-santas-gray-100);
+}
+
+.card-section:hover {
+    border: 1px solid var(--bs-color-blue-ribbon);
 }
 
 .card-link:hover .card-text,
