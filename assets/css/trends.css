@@ -1,0 +1,80 @@
+.todays-trends {
+    background: #fff;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 1px solid var(--bs-color-athens-gray);
+    border-radius: 8px;
+}
+
+.additional-text-first {
+    font-weight: 600;
+    color: var(--bs-color-santas-gray-100);
+    padding-top: 32px;
+}
+
+.additional-text {
+    font-weight: 600;
+    color: var(--bs-color-santas-gray-100);
+    margin-top: 24px;
+}
+
+.additional-number {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--bs-color-charade);
+    margin-top: 6px;
+}
+
+.additional-number-latter {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--bs-color-charade);
+    margin-top: 6px;
+    margin-bottom: 32px;
+}
+
+.date-section {
+    padding-top: 64px;
+    padding-right: 32px;
+}
+
+.day-text {
+    margin-top: 32px;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.date-text {
+    font-size: 12px;
+    font-family: 400;
+    color: var(--bs-color-santas-gray-100);
+}
+
+.date-item {
+    margin-top: 8px;
+}
+
+.additional {
+    text-align: center;
+    border-left: 1px solid var(--bs-color-athens-gray);
+}
+
+.divider-graph-blue {
+    width: 16px;
+    border-bottom: 2px solid var(--bs-color-blue-ribbon);
+    margin-right: 8px;
+}
+
+.divider-graph-gray {
+    width: 16px;
+    border-bottom: 2px solid var(--bs-color-athens-gray);
+    margin-right: 8px;
+    margin-left: 32px;
+}
+
+.divider-additional {
+    width: 342px;
+    border: 1px solid var(--bs-color-athens-gray);
+    margin-top: 24px;
+}
