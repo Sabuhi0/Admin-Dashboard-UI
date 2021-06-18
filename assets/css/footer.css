@@ -1,0 +1,147 @@
+.footer-section {
+    padding-bottom: 30px;
+}
+
+.unresolved-tickets {
+    background: #fff;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 32px;
+    border: 1px solid var(--bs-color-athens-gray);
+    border-radius: 8px;
+}
+
+.tickets-text {
+    font-size: 19px;
+    font-weight: bold;
+    color: var(--bs-color-charade);
+}
+
+.view-text {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--bs-color-blue-ribbon);
+}
+
+.group-text {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    color: var(--bs-color-santas-gray-100);
+    padding-top: 8px;
+    padding-bottom: 16px;
+}
+
+.support-text {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    color: var(--bs-color-charade);
+    padding-top: 8px;
+    padding-bottom: 16px;
+}
+
+.footer-text {
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    color: var(--bs-color-charade);
+}
+
+.footer-number {
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    color: var(--bs-color-santas-gray-100);
+}
+
+.item {
+    height: 58px;
+    padding-top: 17px;
+}
+
+.footer-divider {
+    border: 1px solid var(--bs-color-athens-gray);
+}
+
+.footer-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+
+.tasks {
+    background: #fff;
+    margin-top: 30px;
+    margin-right: 30px;
+    padding-top: 32px;
+    border: 1px solid var(--bs-color-athens-gray);
+    border-radius: 8px;
+}
+
+.today-text {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    color: var(--bs-color-santas-gray-100);
+    padding-top: 8px;
+    padding-bottom: 16px;
+}
+
+.footer-text-gray {
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    color: var(--bs-color-athens-gray);
+}
+
+.footer-plus {
+    background: #F0F1F7;
+    color: #F0F1F7;
+}
+
+.tasks-item {
+    height: 58px;
+    padding-top: 17px;
+}
+
+.form-check-input {
+    margin-right: 16px;
+}
+
+input.form-check-input {
+    width: 20px;
+    height: 20px;
+}
+
+.button-urgent {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 11px;
+    border: none;
+    border-radius: 8px;
+    background: var(--bs-color-amber);
+    color: #fff;
+}
+
+.button-new {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 11px;
+    border: none;
+    border-radius: 8px;
+    background: var(--bs-color-shamrock);
+    color: #fff;
+}
+
+.button-default {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 11px;
+    border: none;
+    border-radius: 8px;
+    background: var(--bs-color-whisper);
+    color: var(--bs-color-santas-gray-100);
+}
