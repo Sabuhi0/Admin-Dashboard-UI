@@ -1,8 +1,6 @@
 .todays-trends {
     background: #fff;
     margin-top: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
     border: 1px solid var(--bs-color-athens-gray);
     border-radius: 8px;
 }

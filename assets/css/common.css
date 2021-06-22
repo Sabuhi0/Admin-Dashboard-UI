@@ -20,6 +20,11 @@ main {
     box-sizing: border-box;
 }
 
+.content {
+    padding-left: 30px;
+    padding-right: 33px;
+}
+
 .mt-16 {
     margin-top: 16px;
 }
@@ -34,14 +39,6 @@ main {
 
 .pl-24 {
     padding-left: 24px;
-}
-
-.pl-30 {
-    padding-left: 30px;
-}
-
-.pr-30 {
-    padding-right: 30px;
 }
 
 .pl-32 {
