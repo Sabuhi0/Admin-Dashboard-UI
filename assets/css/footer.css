@@ -53,11 +53,11 @@
 
 .item {
     height: 58px;
-    padding-top: 17px;
+    padding-top: 20px;
 }
 
 .footer-divider {
-    border: 1px solid var(--bs-color-athens-gray);
+    border-bottom: 1px solid var(--bs-color-athens-gray);
 }
 
 .footer-section {
@@ -96,7 +96,11 @@
 
 .tasks-item {
     height: 58px;
-    padding-top: 17px;
+    padding-top: 20px;
+}
+
+.form-item {
+    height: 58px;
 }
 
 .form-check-input {

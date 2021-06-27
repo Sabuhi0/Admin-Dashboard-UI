@@ -73,6 +73,6 @@
 
 .divider-additional {
     width: 342px;
-    border: 1px solid var(--bs-color-athens-gray);
+    border-bottom: 1px solid var(--bs-color-athens-gray);
     margin-top: 24px;
 }
